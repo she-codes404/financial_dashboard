@@ -2,7 +2,7 @@
 
 A modern financial management interface built with HTML and CSS for tracking transactions, insights, and payments efficiently.
 
-![image](image.png)
+![image](assets/image.png)
 
 ## Overview
 
